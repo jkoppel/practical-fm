@@ -15,6 +15,7 @@ If the company is hiring please include a link to the ad.
 [BAE Systems](http://www.baesystems.com/en/home) | | | ```Coq``` [Reddit](https://www.reddit.com/r/Coq/comments/7ajnct/coq_in_industry/dpavptl/)
 [The Boeing Company](http://www.boeing.com/) | USA | Aerospace, Defense |```Coq``` (no proof)
 [Cog Systems](https://cog.systems/) | Australia, New South Wales, Sydney | | [Site](https://cog.systems/d4-secure-sdk/)
+[CONCORDIUM](https://www.concordium.com) | Switzerland | Blockchain | ```Coq``` ```Agda``` ```Idris``` [Site](https://www.concordium.com/careers/)
 [Data61](https://www.csiro.au/) | Australia | | ``` Isabelle/HOL``` (seL4)
 [Ethereum](https://ethereum.org/) | Switzerland | | ```Why3``` [Dev Update: Formal Methods](https://blog.ethereum.org/2016/09/01/formal-methods-roadmap/), ```Isabelle/HOL``` [A Lem formalization of EVM and some Isabelle/HOL proofs](https://github.com/pirapira/eth-isabelle), ```Coq``` [Formal Verification of Ethereum Contracts](https://github.com/pirapira/ethereum-formal-verification-overview)
 [eSpark Learning](https://www.esparklearning.com/) | USA, IL, Chicago | ? | ```TLA+``` [Formal Methods in Practice: Using TLA+ at eSpark Learning](https://medium.com/espark-engineering-blog/formal-methods-in-practice-8f20d72bce4f)
