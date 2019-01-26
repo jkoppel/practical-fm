@@ -35,7 +35,7 @@ NASA | USA | ? | ```PVS``` [NASA Langley Formal Methods Research Program](https:
 PingCAP | | | ```TLA+``` [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
 [Rockwell Collins](https://www.rockwellcollins.com/) | USA, Cedar Rapids, Iowa | High Assurance Systems | ?
 Synopsis | ? | ? | [Site](https://www.synopsys.com/verification.html)
-[SiFive](https://www.sifive.com) | USA, CA, San Francisco | RISC-V Chip Design | ```Coq``` [Coq-mailing-list](https://sympa.inria.fr/sympa/arc/coq-club/2018-08/msg00034.html) [Site] (https://www.sifive.com/jobs)
+[SiFive](https://www.sifive.com) | USA, CA, San Francisco | RISC-V Chip Design | ```Coq``` [Coq-mailing-list](https://sympa.inria.fr/sympa/arc/coq-club/2018-08/msg00034.html)  [Site](https://www.sifive.com/jobs)
 [TrustInSoft](https://trust-in-soft.com/) | USA, CA, San Francisco | - | ```TrustInSoft Analyzer``` [Site](https://trust-in-soft.com/polarssl-verification-kit/)
 [Trustworthy Systems](https://ts.data61.csiro.au/) | Australia, Sydney  |  | ```Isabelle/HOL```, ```Coq``` [Site](https://ts.data61.csiro.au/projects/TS/l4.verified/)
 [JetBrains](https://jetbrains.org) | Saint Petersburg, Russia | - | [Site](https://research.jetbrains.org/ru/groups/group-for-dependent-types-and-hott)
